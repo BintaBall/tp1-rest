@@ -14,8 +14,8 @@ Ce projet démontre l'utilisation de différentes librairies HTTP en JavaScript 
 
 ## Installation
 
-1.  Clonez le dépôt : `git clone https://github.com/votre-nom-utilisateur/nom-du-projet.git`
-2.  Accédez au répertoire du projet : `cd nom-du-projet`
+1.  Clonez le dépôt : `git clone https://github.com/BintaBall/tp1-rest.git`
+2.  Accédez au répertoire du projet : `cd weather_tp`
 3.  Installez les dépendances : `npm install`
 
 ## Utilisation
